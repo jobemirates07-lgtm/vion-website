@@ -149,6 +149,9 @@ nav a:not(.btn):hover:after,nav a:not(.btn):focus-visible:after{transform:scaleX
 .btn.profile-download{display:inline-flex;align-items:center;gap:.55rem;border-color:#ffffff75;background:#ffffff12;color:#fff}
 .btn.profile-download:hover{background:#fff;color:var(--navy);border-color:#fff}
 .profile-download svg{width:1.15rem;height:1.15rem;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.foot-contact a.profile-cta{display:inline-flex;align-items:center;gap:.7rem;margin-top:.7rem;padding:.8rem 1rem;background:linear-gradient(135deg,#164cb5,#0d3278);border:1px solid #d5b66b;border-radius:4px;color:#fff;text-decoration:none;font-size:.88rem;font-weight:700;letter-spacing:.015em;box-shadow:0 5px 16px #0003;transition:transform .18s ease,box-shadow .18s ease,background .18s ease}
+.foot-contact a.profile-cta:hover{background:linear-gradient(135deg,#1d5bcf,#16408f);text-decoration:none;transform:translateY(-2px);box-shadow:0 8px 20px #0005}
+.profile-cta svg{width:1.2rem;height:1.2rem;flex:none;fill:none;stroke:#e6cc8b;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
 .chips{list-style:none;display:flex;flex-wrap:wrap;gap:.6rem;padding:0;margin:2rem 0 0}
 .chips li{border:1px solid var(--steel);padding:.35rem .9rem;font-size:.9rem;font-weight:600;clip-path:polygon(0 0,100% 0,calc(100% - 8px) 100%,0 100%);padding-right:1.1rem}
 .chips.dk li{border-color:var(--royal);color:var(--royal);margin:0}
