@@ -1,0 +1,23 @@
+{
+  "name": "vion-website",
+  "version": "1.0.0",
+  "description": "Vion Technical Services L.L.C. website with Vercel Web Analytics",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobemirates07-lgtm/vion-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobemirates07-lgtm/vion-website/issues"
+  },
+  "homepage": "https://github.com/jobemirates07-lgtm/vion-website#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
